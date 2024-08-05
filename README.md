@@ -4,7 +4,7 @@ I'm an experienced senior full-stack developer with over a decade's worth of han
 
 Technical skills:
 - Ruby on Rails (5, 6 and 7, including Hotwire & Stimulus)
-- React (TypeScript, Next.js, Vite and TailwindCSS)
+- React (TypeScript, Next.js, Remix, Vite and TailwindCSS)
 - React Native (Expo)
 - Node.js RESTful APIs
 - PostgreSQL and MySQL databases
