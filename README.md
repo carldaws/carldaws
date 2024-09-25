@@ -1,6 +1,6 @@
-## Full-Stack Developer | Ruby on Rails & React
+## Full-Stack Ruby on Rails Developer
 
-I'm an experienced senior full-stack developer with over a decade's worth of hands-on expertise with Ruby on Rails and JavaScript / TypeScript as well as experience hiring, managing and training junior developers.
+I'm an experienced senior full-stack developer with over a decade's worth of hands-on expertise with Ruby on Rails and JavaScript as well as experience hiring, managing and training junior developers.
 
 Technical skills:
 - Ruby on Rails (5, 6 and 7, including Hotwire & Stimulus)
