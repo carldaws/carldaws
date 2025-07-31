@@ -1,4 +1,4 @@
-## Full-Stack Web Developer | Rails Enthusiast, Neovim Enjoyer
+## Ruby Enthusiast, Neovim Enjoyer
 
 I'm an experienced senior full-stack developer with over a decade's worth of hands-on expertise with Ruby on Rails and JavaScript as well as experience hiring, managing and training junior developers.
 
