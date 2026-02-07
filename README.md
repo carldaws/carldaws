@@ -1,4 +1,4 @@
-## Senior Software Engineer | Ruby on Rails Specialist
+## Senior Software Engineer
 
 I'm a senior software engineer specialising in Ruby on Rails with over a decade of experience building production web applications - as a team lead, a contractor, and a solo developer shipping my own products.
 
