@@ -9,7 +9,7 @@ Technical skills:
 - React (TypeScript, Next.js, Vite), React Native (Expo)
 - PostgreSQL, Redis, Sidekiq, Docker, Kamal, AWS
 - Stripe, OpenAI, Anthropic and custom API integrations
-- TDD, CI/CD, code review, ViewComponents
+- TDD, CI/CD, code review
 
 <!--
 **carldaws/carldaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
