@@ -1,14 +1,15 @@
-## Ruby Enthusiast, Neovim Enjoyer
+## Senior Software Engineer | Ruby on Rails Specialist
 
-I'm an experienced senior full-stack developer with over a decade's worth of hands-on expertise with Ruby on Rails and JavaScript as well as experience hiring, managing and training junior developers.
+I'm a senior software engineer specialising in Ruby on Rails with over a decade of experience building production web applications - as a team lead, a contractor, and a solo developer shipping my own products.
+
+I enjoy owning problems end-to-end: architecting the solution, building it, deploying it, and iterating on it with real users. I welcome opportunities to lead small teams in a hands-on way, mentoring and training less experienced developers.
 
 Technical skills:
-- Ruby on Rails (5, 6, 7 and 8, including Hotwire & Stimulus)
-- React (TypeScript, Next.js, Remix, Vite and TailwindCSS)
-- React Native (Expo)
-- Node.js RESTful APIs
-- PostgreSQL and MySQL databases
-- OpenAI, Stripe and custom API integrations
+- Ruby on Rails (5 through 8, including Hotwire, Stimulus & Turbo Native)
+- React (TypeScript, Next.js, Vite), React Native (Expo)
+- PostgreSQL, Redis, Sidekiq, Docker, Kamal, AWS
+- Stripe, OpenAI, Anthropic and custom API integrations
+- TDD, CI/CD, code review, ViewComponents
 
 <!--
 **carldaws/carldaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
